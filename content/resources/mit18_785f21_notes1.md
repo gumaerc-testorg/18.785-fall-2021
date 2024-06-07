@@ -4,6 +4,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/18-785-number-theory-i-fall-2021/mit18_785f21_notes1.pdf
+file_size: 302168
 file_type: application/pdf
 image_metadata:
   caption: ''
