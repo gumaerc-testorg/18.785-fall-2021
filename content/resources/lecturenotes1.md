@@ -4,6 +4,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /courses/18-785-number-theory-i-fall-2021/lecturenotes1.pdf
+file_size: 302168
 file_type: application/pdf
 image_metadata:
   caption: ''
