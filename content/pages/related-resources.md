@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page includes some helpful resources.
 draft: false
 title: Related Resources
 uid: 6e7e414e-68fb-47ad-912f-db094ad927d5
@@ -14,7 +15,7 @@ Magma is a closed-source computer algebra system focused on number theory, group
 
 ### [PARI/GP](http://pari.math.u-bordeaux.fr/)
 
-PARI/GP is an open-source computer algebra system designed for fast computations in number theory. PARI is a fast C-library and GP is a script language interface to PARI that runs in an interactive shell (command-line only, no browser interface). Many Sage functions are implemented using PARI (you can directly call PARI and GP functions from within Sage). Like Magma, PARI/GP also has an [online calculator](http://pari.math.u-bordeaux.fr/gp.html) for quick calculations.
+PARI/GP is an open-source computer algebra system designed for fast computations in number theory. PARI is a fast C-library and GP is a script language interface to PARI that runs in an interactive shell (command-line only, no browser interface). Many Sage functions are implemented using PARI (you can directly call PARI and GP functions from within Sage). 
 
 ### [SageMath](http://www.sagemath.org/)
 
