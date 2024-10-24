@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: /courses/18-785-number-theory-i-fall-2021/lecturenotes2.pdf
+file: /ol-ocw-studio-app/courses/18-785-number-theory-i-fall-2021/lecturenotes2.pdf
 file_size: 358348
 file_type: application/pdf
 image_metadata:
