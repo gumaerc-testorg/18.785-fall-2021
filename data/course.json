@@ -37,10 +37,11 @@
     "website": "18785-number-theory-i-fall-2021"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Notes",
     "Problem Sets"
   ],
   "site_uid": "5e354a8e-410e-42e7-a796-ebcd6bb53ab2",
-  "site_short_id": "18.785-fall-2021"
+  "site_short_id": "18.785-fall-2021",
+  "site_url_path": "courses/18-785-number-theory-i-fall-2021"
 }
