@@ -14,7 +14,7 @@ This is the first semester of a one-year graduate course in number theory. There
 
 ## Corequisite
 
-[*18.705 Commutative Algebra*](https://ocw.mit.edu/courses/18-705-commutative-algebra-fall-2008/)
+{{% resource_link "1b31f62b-1f8e-4494-be7e-1a0840e39bf7" "*18.705 Commutative Algebra*" %}}
 
 ## More on Prerequisites
 
@@ -22,7 +22,7 @@ This is the first semester of a one-year graduate course in number theory. There
 
 *\[Translation: "Mathematics is the queen of the sciences and number theory is the queen of mathematics."\]*
 
-As suggested by this quote, number theory is supported by many subfields of mathematics, and we will not hesitate to call upon them as needed. In most cases these supporting subjects will play a minor role, but you should be aware that at various points in the course we will make reference to standard material from many other branches of mathematics, including topology, complex analysis, representation theory, and algebraic geometry. When this happens, I will include in the lecture notes a quick review of any terminology and theorems we need that fall outside of the official corequisite for this course, which is [*18.705 Commutative Algebra*](https://ocw.mit.edu/courses/18-705-commutative-algebra-fall-2008/). Note that 18.705 transitively includes [*18.100C Real Analysis*](https://ocw.mit.edu/courses/18-100c-real-analysis-fall-2012/), as well as [*18.701 Algebra I*](https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/) and [*18.702 Algebra II*](https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/), as prerequisites. In past years, [*18.112 Complex Analysis*](https://ocw.mit.edu/courses/18-112-functions-of-a-complex-variable-fall-2008/) was also a formal prerequisite. This is no longer the case, but if you have never studied complex analysis you will need to be prepared to do some extra reading when we begin our study of zeta functions and *L*\-functions.
+As suggested by this quote, number theory is supported by many subfields of mathematics, and we will not hesitate to call upon them as needed. In most cases these supporting subjects will play a minor role, but you should be aware that at various points in the course we will make reference to standard material from many other branches of mathematics, including topology, complex analysis, representation theory, and algebraic geometry. When this happens, I will include in the lecture notes a quick review of any terminology and theorems we need that fall outside of the official corequisite for this course, which is {{% resource_link "1b31f62b-1f8e-4494-be7e-1a0840e39bf7" "*18.705 Commutative Algebra*" %}}. Note that 18.705 transitively includes {{% resource_link "ceceb441-75a4-41ca-9cc5-1a474edc152a" "*18.100C Real Analysis*" %}}, as well as {{% resource_link "8c07ddae-8c42-435d-a5b8-dc3d282c3921" "*18.701 Algebra I*" %}} and {{% resource_link "c79ba620-1919-4dbd-ab0d-17ab2dac91ec" "*18.702 Algebra II*" %}}, as prerequisites. In past years, {{% resource_link "7aff4e3e-8a4d-4825-bb5d-67def4a31dc7" "*18.112 Complex Analysis*" %}} was also a formal prerequisite. This is no longer the case, but if you have never studied complex analysis you will need to be prepared to do some extra reading when we begin our study of zeta functions and *L*\-functions.
 
 For graduate students in mathematics (the target audience of this course), none of this should be an issue. Undergraduates and students from other departments may need to spend some time acquainting (or reacquainting) themselves with supporting material as it arises.
 
@@ -44,41 +44,41 @@ Number theory is a vast subject, and it is good to see it from many different pe
 
 #### Suggested Textbooks
 
-Altman, Allen, and Steven Kleiman. [*A Term of Commutative Algebra*](http://www.centerofmath.org/textbooks/commalgebra/index.html#subject1)*.* Worldwide Center of Mathematics, 2013. ISBN: 9780988557215. ([errata](http://web.mit.edu/18.705/www/errata.html)).
+Altman, Allen, and Steven Kleiman. {{% resource_link "ad335565-b4b9-4c3a-9742-4544b2a27ac2" "*A Term of Commutative Algebra*" %}}*.* Worldwide Center of Mathematics, 2013. ISBN: 9780988557215. ({{% resource_link "89077b21-de76-4666-919d-4a7982f93f31" "errata" %}}).
 
-Cassels, John William Scott, and Albrecht Fröhlich, eds. [*Algebraic Number Theory*](https://www.lms.ac.uk/publications/algebraic-number-theory). 2\\(^{\\text{nd}}\\) edition. London Mathematical Society, 2010. ISBN: 9780950273426. (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif)[errata (PDF)](http://wwwf.imperial.ac.uk/~buzzard/CFerrata.pdf)).
+Cassels, John William Scott, and Albrecht Fröhlich, eds. {{% resource_link "6dfaca87-a1a8-4471-8be8-08922dd0a23d" "*Algebraic Number Theory*" %}}. 2\\(^{\\text{nd}}\\) edition. London Mathematical Society, 2010. ISBN: 9780950273426. (![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif){{% resource_link "7c8d4ece-74e7-47a9-8511-36d896179e9f" "errata (PDF)" %}}).
 
-Davenport, Harold. [*Multiplicative Number Theory*](https://link.springer.com/book/10.1007%2F978-1-4757-5927-3). 3rd edition. Springer, 2000. ISBN: 9780387950976.
+Davenport, Harold. {{% resource_link "0309315f-af12-4d9f-9dc7-66d0e8ae05b4" "*Multiplicative Number Theory*" %}}. 3rd edition. Springer, 2000. ISBN: 9780387950976.
 
-———. [*Class Field Theory*](http://www.jmilne.org/math/CourseNotes/cft.html), 2013. Available at [J. S. Milne Mathematics Site](http://www.jmilne.org/math/index.html).
+———. {{% resource_link "efdaedf9-6568-4d96-aa69-dcf441c297ab" "*Class Field Theory*" %}}, 2013. Available at {{% resource_link "c1e9ea30-fde1-4461-b29b-8f34b15ccfac" "J. S. Milne Mathematics Site" %}}.
 
-Lang, Serge. [*Algebraic Number Theory*](https://link.springer.com/book/10.1007%2F978-1-4612-0853-2). 2nd edition. Springer, 2013. ISBN: 9781461269229.
+Lang, Serge. {{% resource_link "f9263fd0-7f91-45a8-9c9f-2fc6c31862f9" "*Algebraic Number Theory*" %}}. 2nd edition. Springer, 2013. ISBN: 9781461269229.
 
-Lorenzini, Dino. [*An Invitation to Arithmetic Geometry*](https://bookstore.ams.org/gsm-9/)*.* American Mathematical Society, 1996. ISBN: 9780821802670.
+Lorenzini, Dino. {{% resource_link "ed7bb1f8-cc66-469f-a41d-2894a537fbf8" "*An Invitation to Arithmetic Geometry*" %}}*.* American Mathematical Society, 1996. ISBN: 9780821802670.
 
-Manin, Yuri Ivanovic, and Alexei A. Panchishkin. [*Introduction to Modern Number Theory*](https://link.springer.com/book/10.1007/3-540-27692-0). 2nd edition. Springer, 2007. ISBN: 9783540203643.
+Manin, Yuri Ivanovic, and Alexei A. Panchishkin. {{% resource_link "73ec004c-0187-4692-aa16-c5f893f6effa" "*Introduction to Modern Number Theory*" %}}. 2nd edition. Springer, 2007. ISBN: 9783540203643.
 
-Milne, J. S. [*Algebraic Number Theory*](http://www.jmilne.org/math/CourseNotes/ant.html), 2017. Available at [J. S. Milne Mathematics Site](http://www.jmilne.org/math/index.html).
+Milne, J. S. {{% resource_link "bedbc815-7c64-42f5-b126-c333da334477" "*Algebraic Number Theory*" %}}, 2017. Available at {{% resource_link "c1e9ea30-fde1-4461-b29b-8f34b15ccfac" "J. S. Milne Mathematics Site" %}}.
 
-Neukirch, Jürgen. [*Algebraic Number Theory*](https://link.springer.com/book/10.1007/978-3-662-03983-0). Springer, 2010. ISBN: 9783642084737.
+Neukirch, Jürgen. {{% resource_link "5f0c1e50-f389-404b-8aae-0751e5644523" "*Algebraic Number Theory*" %}}. Springer, 2010. ISBN: 9783642084737.
 
-Rosen, Michael. [*Number Theory in Function Fields*](https://link.springer.com/book/10.1007%2F978-1-4757-6046-0). Springer, 2010. ISBN: 9781441929549.
+Rosen, Michael. {{% resource_link "40532576-19d2-4981-b4f5-dd163f35c973" "*Number Theory in Function Fields*" %}}. Springer, 2010. ISBN: 9781441929549.
 
-Serre, Jean-Pierre. [*A Course in Arithmetic*](https://link.springer.com/book/10.1007/978-1-4684-9884-4). Springer, 1973. ISBN: 9780387900414.
+Serre, Jean-Pierre. {{% resource_link "648b58bc-0625-4dca-bd41-0319df0d4f9d" "*A Course in Arithmetic*" %}}. Springer, 1973. ISBN: 9780387900414.
 
-———. [*Local Fields*](https://link.springer.com/book/10.1007/978-1-4757-5673-9). Springer, 2013. ISBN: 9781475756753. \[Preview with [Google Books](https://books.google.com/books?id=3LAJCAAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+———. {{% resource_link "e2d768a2-4b88-4923-8284-2461da6c4df1" "*Local Fields*" %}}. Springer, 2013. ISBN: 9781475756753. \[Preview with {{% resource_link "94ed916b-3c8b-4b06-ad90-ffa836e67a25" "Google Books" %}}\]
 
 #### Other Useful Texts
 
 I can also recommend the following texts, according to taste (Atiyah-MacDonald is an examplar of brevity, while Eisenbud is wonderfully discursive; Matsumura, my personal favorite, is somewhere in between, and I also recommend Milne's primer):
 
-Atiyah, M. F., and I. G. MacDonald. [*Introduction to Commutative Algebra*](https://books.google.com/books/about/Introduction_To_Commutative_Algebra.html?id=HOASFid4x18C)*.* CRC Press*, 1994. ISBN: 9780201407518.*
+Atiyah, M. F., and I. G. MacDonald. {{% resource_link "558662a7-a789-4f88-aa39-e6545bcf80a6" "*Introduction to Commutative Algebra*" %}}*.* CRC Press*, 1994. ISBN: 9780201407518.*
 
-Eisenbud, David. [*Commutative Algebra with a View Toward Algebraic Geometry*](https://link.springer.com/book/10.1007/978-1-4612-5350-1). Springer, 2008. ISBN: 9780387942698.
+Eisenbud, David. {{% resource_link "c5bb87ea-5efd-4a4c-a798-409767ffe318" "*Commutative Algebra with a View Toward Algebraic Geometry*" %}}. Springer, 2008. ISBN: 9780387942698.
 
-Matsumura, Hideyuki. [*Commutative Ring Theory*](https://www.cambridge.org/core/books/commutative-ring-theory/02819830750568B06C16E6199F3562C1). Cambridge University Press, 1989. ISBN: 9780521367646. \[Preview with [Google Books](https://books.google.com/books?id=yJwNrABugDEC&pg=PAfrontcover#v=onepage&q&f=false)\]
+Matsumura, Hideyuki. {{% resource_link "c937f22b-de59-41cc-bea6-3e48659ae808" "*Commutative Ring Theory*" %}}. Cambridge University Press, 1989. ISBN: 9780521367646. \[Preview with {{% resource_link "abc0cb07-a090-4aca-a218-8c62e27be562" "Google Books" %}}\]
 
-Milne, J. S. ![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif)[*A Primer of Commutative Algebra* (PDF)](https://www.jmilne.org/math/xnotes/CA.pdf), 2017. Available at [J. S. Milne Mathematics Site](http://www.jmilne.org/math/index.html).
+Milne, J. S. ![This resource may not render correctly in a screen reader.](https://old.ocw.mit.edu/images/inacessible.gif){{% resource_link "92a4f980-e4fa-48c3-bbfd-a4bd2e0965e6" "*A Primer of Commutative Algebra* (PDF)" %}}, 2017. Available at {{% resource_link "c1e9ea30-fde1-4461-b29b-8f34b15ccfac" "J. S. Milne Mathematics Site" %}}.
 
 ## Problem Sets
 
